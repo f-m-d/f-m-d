@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @f-m-d
 - 👀 I’m interested in Cybersecurity and CS in general
-- 🌱 I’m currently learning Java EE, Python, Kubernetes and Openstack
+- 🌱 I’m currently learning Python, Kubernetes and Cloud Hyperscalers (Azure, AWS, GCP)
 - 💞️ I’m looking to collaborate on future Github projects
 - 📫 How to reach me: dauriafrancescomaria@gmail.com
 
